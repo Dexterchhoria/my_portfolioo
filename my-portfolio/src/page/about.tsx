@@ -1,5 +1,4 @@
 import React from "react";
-import { FaLinkedin, FaGithub, FaTwitter, FaGlobe } from "react-icons/fa";
 
 
 const About: React.FC = () => (
